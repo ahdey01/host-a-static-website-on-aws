@@ -1,3 +1,7 @@
+![Alt text](/Host-a-Static-Website-on-AWS.png)
+
+---
+
 # 📁 Host a Static Website on AWS
 
 This project demonstrates how to host a **static HTML web application** on AWS, using a secure, scalable, and fault-tolerant architecture. The infrastructure is provisioned using AWS core services and follows DevOps best practices for high availability and automation.
